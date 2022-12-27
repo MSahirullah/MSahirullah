@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msahirullah&label=Profile%20views&color=0e75b6&style=flat" alt="msahirullah" /> </p>
 
-- 🔭 I’m currently working on [BMI Calculator App Flutter](https://github.com/MSahirullah/BMI_Calculator_App)
+- 🔭 I’m currently working on [ElectEase-Flutter-App](https://github.com/MSahirullah/ElectEase-Flutter-App)
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
