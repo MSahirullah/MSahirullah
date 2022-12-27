@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **msahirullah@gmail.com**
 
-- 📄 Know about my experiences [[https://cutt.ly/i1ZzKVQ](https://cutt.ly/i1ZzKVQ)](https://cutt.ly/Sahirullah-Resume)
+- 📄 Know about my experiences [https://cutt.ly/Sahirullah-Resume](https://cutt.ly/Sahirullah-Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
